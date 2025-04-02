@@ -2,6 +2,7 @@
 This is a blocklist for scams that are regularly seen on discord and other platforms, this can be added to a pi-hole instance.
 
 We are seeing more and more scammers on discord and they are upping their game.
+Added more URLs that are designed to pull users from there indended servers for the reason to scam them.
 
 Here is a maintained list or urls that they are currently using.
 
