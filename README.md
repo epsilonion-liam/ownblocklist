@@ -12,7 +12,7 @@ This blocklist must not be used for commercial purposes without concent.
 <br/>
 
 
-## 09/26/2025 - The FBI recently release this list that is now included in the Blocklist:
+## 03/26/2025 - The FBI recently release this list that is now included in the Blocklist:
 - Imageconvertors.com (phishing)
 - convertitoremp3.it (Riskware)
 - convertisseurs-pdf.com (Riskware)
